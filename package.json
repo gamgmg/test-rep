@@ -1,7 +1,6 @@
 {
     "name": "@degon/test-rep",
-    "private": true,
-    "version": "1.0.20",
+    "version": "1.0.21",
     "description": "",
     "main": "index.js",
     "scripts": {
